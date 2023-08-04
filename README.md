@@ -4,7 +4,7 @@ http://il-test.androidel.org/
 
 ## Стек:
 
-[![React](https://img.shields.io/badge/ReactJS-blue?logo=react&style=flat)](https://react.dev/) [![Redux](https://img.shields.io/badge/Redux--toolkit-blueviolet?logo=Redux&style=flat)](https://redux.js.org/) [![Saga](https://img.shields.io/badge/Redux--Saga-blueviolet?logo=reduxsaga&style=flat)](https://redux-saga.js.org/) [![Ant](https://img.shields.io/badge/AntDesign-red?logo=antdesign&style=flat)](https://ant.design/) [![Leaflet](https://img.shields.io/badge/Leaflet-greengray?logo=leaflet&style=flat)](https://leafletjs.com/) [![Axios](https://img.shields.io/badge/Axios-darkblue?logo=axios&style=flat)]() [![OSRM](https://img.shields.io/badge/OSRM_API-gray?logo=osrm&style=flat)](http://project-osrm.org/)
+[![React](https://img.shields.io/badge/ReactJS-blue?logo=react&style=flat)](https://react.dev/) [![Redux](https://img.shields.io/badge/Redux--toolkit-blueviolet?logo=Redux&style=flat)](https://redux.js.org/) [![Saga](https://img.shields.io/badge/Redux--Saga-blueviolet?logo=reduxsaga&style=flat)](https://redux-saga.js.org/) [![Ant](https://img.shields.io/badge/AntDesign-red?logo=antdesign&style=flat)](https://ant.design/) [![Leaflet](https://img.shields.io/badge/Leaflet-greengray?logo=leaflet&style=flat)](https://leafletjs.com/) [![Axios](https://img.shields.io/badge/Axios-darkblue?logo=axios&style=flat)]() [![OSRM](https://img.shields.io/badge/OSRM_API-gray?style=flat)](https://project-osrm.org/docs/v5.5.1/api)
 
 ## Требуется:
 
